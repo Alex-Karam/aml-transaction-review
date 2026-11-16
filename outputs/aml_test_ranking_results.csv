@@ -1,0 +1,7 @@
+ranking,transaction_date,reviewed,caught,missed,false_positives
+Amount only,2022-09-09,500,1,513,499
+Amount only,2022-09-10,500,6,436,494
+Amount + history,2022-09-09,500,1,513,499
+Amount + history,2022-09-10,500,0,442,500
+Decision tree,2022-09-09,500,4,510,496
+Decision tree,2022-09-10,500,49,393,451
